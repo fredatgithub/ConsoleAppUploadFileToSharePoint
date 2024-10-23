@@ -1,9 +1,9 @@
-﻿using Microsoft.Identity.Client;
-using Newtonsoft.Json.Linq;
-using System;
+﻿using System;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
+using Microsoft.Identity.Client;
+using Newtonsoft.Json.Linq;
 
 namespace ConsoleAppUploadFileToSharePoint
 {
